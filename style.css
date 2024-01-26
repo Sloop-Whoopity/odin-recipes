@@ -1,0 +1,21 @@
+/**stylesheet**/
+
+h3 {
+    font-size: 22px;
+    color: hsl(240,50%,50%);
+    font-family: "Arial", "Verdana", cursive;
+    background-color: black;
+}
+
+.ingredients{
+    font-size: 20px;
+    font-family: cursive;
+    color: red;
+}
+
+#fried_rice_steps {
+    color: yellow;
+    background-color: tomato;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
