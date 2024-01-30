@@ -7,10 +7,15 @@ h3 {
     background-color: black;
 }
 
-.ingredients{
+.ingredients li{
     font-size: 20px;
     font-family: cursive;
     color: red;
+    
+}
+
+.ingredients.fettucine li{
+    display: inline;
 }
 
 #fried_rice_steps {
@@ -18,4 +23,30 @@ h3 {
     background-color: tomato;
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
+}
+
+h1 {
+   padding: 10px;
+   background-color: beige; 
+   border: 5px solid black;
+   text-align: center;
+}
+
+.source-div{
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    /**div containers are default blocks**/
+}
+
+.source {
+    padding: 20px;
+    
+    color: black;
+    border: 5px dotted salmon;
+    display: inline-block;
+    text-align: center;
+    
 }
